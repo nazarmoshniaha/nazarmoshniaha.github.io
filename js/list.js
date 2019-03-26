@@ -6,6 +6,7 @@ $(function(){
         $('.technology_text').css({'grid-column':'3/5'});
         $('.technology_pctr').css({'grid-row':'3/4'});
         $('.technology_text').css({'grid-row':'3/4'});
+        $('.technology_pctr').css({'justify-self':'end'});
 
         $('.advantages').css({'padding-left':'25%'});
         $('.advantages').css({'padding-right':'25%'});
@@ -16,6 +17,7 @@ $(function(){
 
         $('.sale_pctr').css({'grid-column':'1/3'});
         $('.sale_form').css({'grid-column':'3/5'});
+        $('.sale_pctr').css({'justify-self':'end'});
 
         $('.slogan_pctr').css({'grid-row':'2/3'});
         $('.slogan_text').css({'grid-row':'2/3'});
@@ -28,6 +30,7 @@ $(function(){
         $('.technology_text').css({'grid-column':'1/3'});
         $('.technology_pctr').css({'grid-row':'2/3'});
         $('.technology_text').css({'grid-row':'2/3'});
+        $('.technology_pctr').css({'justify-self':'center'});
 
         $('.slogan_pctr').css({'grid-row':'4/5'});
         $('.slogan_text').css({'grid-row':'4/5'});
@@ -52,6 +55,7 @@ $(function(){
         $('.sale_form').css({'grid-column':'1/3'});
         $('.sale_pctr').css({'grid-row':'5/6'});
         $('.sale_form').css({'grid-row':'5/6'});
+        $('.sale_pctr').css({'justify-self':'center'});
 
         $('.technology_pctr').css({'grid-column':'1/3'});
         $('.technology_text').css({'grid-column':'3/5'});
